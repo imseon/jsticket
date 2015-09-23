@@ -1,0 +1,24 @@
+{
+  "name": "jsticket",
+  "version": "1.0.0",
+  "description": "用于生成微信的jsticket",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imseon/jsticket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imseon/jsticket/issues"
+  },
+  "homepage": "https://github.com/imseon/jsticket#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "request": "^2.63.0",
+    "thunkify": "^2.1.2"
+  }
+}
